@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "music-logo-icon-vector-design-illustration-template-symbol-sound-element-musical-audio-modern-graphic-creative-abstract-company-170538718.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "music-logo-icon-vector-design-illustration-template-symbol-sound-element-musical-audio-modern-graphic-creative-abstract-company-170538718@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "music-logo-icon-vector-design-illustration-template-symbol-sound-element-musical-audio-modern-graphic-creative-abstract-company-170538718@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

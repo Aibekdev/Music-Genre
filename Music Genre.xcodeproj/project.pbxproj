@@ -16,6 +16,14 @@
 		A746F92C279455D60010EC28 /* Music_GenreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A746F92B279455D60010EC28 /* Music_GenreTests.swift */; };
 		A746F936279455D60010EC28 /* Music_GenreUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A746F935279455D60010EC28 /* Music_GenreUITests.swift */; };
 		A746F938279455D60010EC28 /* Music_GenreUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A746F937279455D60010EC28 /* Music_GenreUITestsLaunchTests.swift */; };
+		A766F7DE27B83811008CDF54 /* Hip Hop.wav in Resources */ = {isa = PBXBuildFile; fileRef = A766F7D727B83810008CDF54 /* Hip Hop.wav */; };
+		A766F7DF27B83811008CDF54 /* Kazakh Music.wav in Resources */ = {isa = PBXBuildFile; fileRef = A766F7D827B83810008CDF54 /* Kazakh Music.wav */; };
+		A766F7E027B83811008CDF54 /* Classical.wav in Resources */ = {isa = PBXBuildFile; fileRef = A766F7D927B83810008CDF54 /* Classical.wav */; };
+		A766F7E127B83811008CDF54 /* Latin.wav in Resources */ = {isa = PBXBuildFile; fileRef = A766F7DA27B83811008CDF54 /* Latin.wav */; };
+		A766F7E227B83811008CDF54 /* Rap.wav in Resources */ = {isa = PBXBuildFile; fileRef = A766F7DB27B83811008CDF54 /* Rap.wav */; };
+		A766F7E327B83811008CDF54 /* Pop.wav in Resources */ = {isa = PBXBuildFile; fileRef = A766F7DC27B83811008CDF54 /* Pop.wav */; };
+		A766F7E427B83811008CDF54 /* Rock.wav in Resources */ = {isa = PBXBuildFile; fileRef = A766F7DD27B83811008CDF54 /* Rock.wav */; };
+		A7DAE64427BA457500EAD9FD /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7DAE64327BA457500EAD9FD /* FirstViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +57,14 @@
 		A746F931279455D60010EC28 /* Music GenreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Music GenreUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A746F935279455D60010EC28 /* Music_GenreUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music_GenreUITests.swift; sourceTree = "<group>"; };
 		A746F937279455D60010EC28 /* Music_GenreUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music_GenreUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A766F7D727B83810008CDF54 /* Hip Hop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "Hip Hop.wav"; path = "Music Genre/Sounds/Hip Hop.wav"; sourceTree = "<group>"; };
+		A766F7D827B83810008CDF54 /* Kazakh Music.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "Kazakh Music.wav"; path = "Music Genre/Sounds/Kazakh Music.wav"; sourceTree = "<group>"; };
+		A766F7D927B83810008CDF54 /* Classical.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Classical.wav; path = "Music Genre/Sounds/Classical.wav"; sourceTree = "<group>"; };
+		A766F7DA27B83811008CDF54 /* Latin.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Latin.wav; path = "Music Genre/Sounds/Latin.wav"; sourceTree = "<group>"; };
+		A766F7DB27B83811008CDF54 /* Rap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Rap.wav; path = "Music Genre/Sounds/Rap.wav"; sourceTree = "<group>"; };
+		A766F7DC27B83811008CDF54 /* Pop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Pop.wav; path = "Music Genre/Sounds/Pop.wav"; sourceTree = "<group>"; };
+		A766F7DD27B83811008CDF54 /* Rock.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = Rock.wav; path = "Music Genre/Sounds/Rock.wav"; sourceTree = "<group>"; };
+		A7DAE64327BA457500EAD9FD /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +95,13 @@
 		A746F908279455D50010EC28 = {
 			isa = PBXGroup;
 			children = (
+				A766F7D927B83810008CDF54 /* Classical.wav */,
+				A766F7D727B83810008CDF54 /* Hip Hop.wav */,
+				A766F7D827B83810008CDF54 /* Kazakh Music.wav */,
+				A766F7DA27B83811008CDF54 /* Latin.wav */,
+				A766F7DC27B83811008CDF54 /* Pop.wav */,
+				A766F7DB27B83811008CDF54 /* Rap.wav */,
+				A766F7DD27B83811008CDF54 /* Rock.wav */,
 				A746F913279455D50010EC28 /* Music Genre */,
 				A746F92A279455D60010EC28 /* Music GenreTests */,
 				A746F934279455D60010EC28 /* Music GenreUITests */,
@@ -102,6 +125,7 @@
 				A746F914279455D50010EC28 /* AppDelegate.swift */,
 				A746F916279455D50010EC28 /* SceneDelegate.swift */,
 				A746F918279455D50010EC28 /* ViewController.swift */,
+				A7DAE64327BA457500EAD9FD /* FirstViewController.swift */,
 				A746F91A279455D50010EC28 /* Main.storyboard */,
 				A746F91D279455D60010EC28 /* Assets.xcassets */,
 				A746F91F279455D60010EC28 /* LaunchScreen.storyboard */,
@@ -231,6 +255,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A766F7DE27B83811008CDF54 /* Hip Hop.wav in Resources */,
+				A766F7DF27B83811008CDF54 /* Kazakh Music.wav in Resources */,
+				A766F7E027B83811008CDF54 /* Classical.wav in Resources */,
+				A766F7E127B83811008CDF54 /* Latin.wav in Resources */,
+				A766F7E227B83811008CDF54 /* Rap.wav in Resources */,
+				A766F7E327B83811008CDF54 /* Pop.wav in Resources */,
+				A766F7E427B83811008CDF54 /* Rock.wav in Resources */,
 				A746F921279455D60010EC28 /* LaunchScreen.storyboard in Resources */,
 				A746F91E279455D60010EC28 /* Assets.xcassets in Resources */,
 				A746F91C279455D50010EC28 /* Main.storyboard in Resources */,
@@ -261,6 +292,7 @@
 				A746F919279455D50010EC28 /* ViewController.swift in Sources */,
 				A746F915279455D50010EC28 /* AppDelegate.swift in Sources */,
 				A746F917279455D50010EC28 /* SceneDelegate.swift in Sources */,
+				A7DAE64427BA457500EAD9FD /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
