@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="music-icon" translatesAutoresizingMaskIntoConstraints="NO" id="s8d-8y-BA0">
-                                <rect key="frame" x="20" y="312" width="374" height="273"/>
+                                <rect key="frame" x="17.635289355424675" y="311.75174577320149" width="373.99999999999989" height="272.99999999999983"/>
                                 <autoresizingMask key="autoresizingMask"/>
                             </imageView>
                         </subviews>
