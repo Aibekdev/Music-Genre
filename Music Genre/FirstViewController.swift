@@ -22,8 +22,10 @@ class FirstViewController: UIViewController {
         musicGenre.text = ""
         var charIndex = 0.0
         let titleText = "Music Genre"
-        for letter in titleText {
-            Timer.scheduledTimer(withTimeInterval: 0.1 * charIndex, repeats: false) { timer in
+        for letter in titleText
+        
+        {Timer.scheduledTimer(withTimeInterval: 0.1 * charIndex, repeats: false)
+            { timer in
                 self.musicGenre.text?.append(letter)
             }
             charIndex += 1
