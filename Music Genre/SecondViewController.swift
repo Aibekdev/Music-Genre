@@ -8,7 +8,7 @@
 import UIKit
 import AVFoundation
 
-class ViewController: UIViewController {
+class SecondViewController: UIViewController {
     var player: AVAudioPlayer!
     
     override func viewDidLoad() {
